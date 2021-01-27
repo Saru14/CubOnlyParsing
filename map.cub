@@ -1,0 +1,20 @@
+R	1920	1080
+
+S	../../sprites/pillar.xpm
+
+NO	../../sprites/eagle.xpm
+SO	../../sprites/colorstone.xpm
+WE	../../sprites/greystone.xpm
+EA	../../sprites/purplestone.xpm
+
+F	101  , 102, 103
+C	201   ,		 	   0 , 201
+
+11111111111
+11000000001
+1002200S001
+10022000001
+10000000011
+10000000011
+10000000011
+11111111111
